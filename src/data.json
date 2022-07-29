@@ -1,0 +1,284 @@
+{
+    "restaurant":[
+      {
+          "id": 1,
+          "name": "Arigato Sushi",
+          "rating": "3.3",
+          "total_votes": "26",
+          "reviews": 66,
+          "cost_for_two": 25,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Asian"
+      },
+      {
+          "id": 2,
+          "name": "Mocha",
+          "rating": "4.6",
+          "total_votes": "567",
+          "reviews": 22,
+          "cost_for_two": 800,
+          "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": false
+          },
+          "categories": "Cafe, Italian, Continental"
+      },
+      {
+          "id": 3,
+          "name": "Blue House Cafe",
+          "rating": "4.3",
+          "total_votes": "88",
+          "reviews": 52,
+          "cost_for_two": 10,
+          "payment_method": {
+              "card": false,
+              "cash": false,
+              "upi": false
+          },
+          "categories": "Coffee and Tea, Mediterranean"
+      },
+      {
+          "id": 4,
+          "name": "Star Buffet",
+          "rating": "2.9",
+          "total_votes": "11",
+          "reviews": 79,
+          "cost_for_two": 20,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Asian"
+      },
+      {
+          "id": 5,
+          "name": "11th Avenue Cafe Bistro",
+          "rating": "4.1",
+          "total_votes": "377",
+          "reviews": 70,
+          "cost_for_two": 400,
+          "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": false
+          },
+          "categories": "Cafe, American, Italian, Continental"
+      },
+      {
+          "id": 6,
+          "name": "Vintage Machine",
+          "rating": "4.3",
+          "total_votes": "887",
+          "reviews": 67,
+          "cost_for_two": 1000,
+          "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": true
+          },
+          "categories": "Italian, American, Lebanese"
+      },
+      {
+          "id": 7,
+          "name": "Artistry",
+          "rating": "3.8",
+          "total_votes": "28",
+          "reviews": 3,
+          "cost_for_two": 50,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": false
+          },
+          "categories": "American, Bakery, European, Burger, Fusion"
+      },
+      {
+          "id": 8,
+          "name": "Artichoke Cafe",
+          "rating": "3.2",
+          "total_votes": "33",
+          "reviews": 17,
+          "cost_for_two": 75,
+          "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": true
+          },
+          "categories": "Cafe, Spanish, Turkish, Greek"
+      },
+      {
+          "id": 9,
+          "name": "The Giggling Goat",
+          "rating": "3.6",
+          "total_votes": "29",
+          "reviews": 84,
+          "cost_for_two": 7,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Coffee and Tea, Tea, Modern Australian"
+      },
+      {
+          "id": 10,
+          "name": "Pig and Whistle",
+          "rating": "4.1",
+          "total_votes": "87",
+          "reviews": 63,
+          "cost_for_two": 20,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Australian"
+      },
+      {
+          "id": 11,
+          "name": "Funkey Monkey",
+          "rating": "3.8",
+          "total_votes": "97",
+          "reviews": 49,
+          "cost_for_two": 7,
+          "payment_method": {
+              "card": true,
+              "cash": true,
+              "upi": false
+          },
+          "categories": "Breakfast, Coffee and Tea"
+      },
+      {
+          "id": 12,
+          "name": "Blue Bean Love Cafe",
+          "rating": "1.8",
+          "total_votes": "192",
+          "reviews": 5,
+          "cost_for_two": 20,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Cafe, Coffee and Tea, Modern Australian"
+      },
+      {
+          "id": 13,
+          "name": "The Artesian Restaurant",
+          "rating": "1.3",
+          "total_votes": "30",
+          "reviews": 39,
+          "cost_for_two": 40,
+          "payment_method": {
+              "card": false,
+              "cash": false,
+              "upi": false
+          },
+          "categories": "American, International, Southwestern"
+      },
+      {
+          "id": 14,
+          "name": "Beach Box Cafe",
+          "rating": "3.7",
+          "total_votes": "100",
+          "reviews": 49,
+          "cost_for_two": 7,
+          "payment_method": {
+              "card": true,
+              "cash": true,
+              "upi": false
+          },
+          "categories": "Burger, Coffee and Tea, Modern Australian"
+      },
+      {
+          "id": 15,
+          "name": "Lake House Restaurant",
+          "rating": "4.3",
+          "total_votes": "204",
+          "reviews": 22,
+          "cost_for_two": 70,
+          "payment_method": {
+              "card": false,
+              "cash": false,
+              "upi": true
+          },
+          "categories": "Italian, Mediterranean, Pizza"
+      },
+      {
+          "id": 16,
+          "name": "Theo Yianni's Authentic Greek Restaurant",
+          "rating": "3.9",
+          "total_votes": "156",
+          "reviews": 8,
+          "cost_for_two": 25,
+          "payment_method": {
+              "card": true,
+              "cash": true,
+              "upi": false
+          },
+          "categories": "Burger, Greek, Sandwich"
+      },
+      {
+          "id": 17,
+          "name": "Baker Street",
+          "rating": "4.1",
+          "total_votes": "791",
+          "reviews": 5,
+          "cost_for_two": 400,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Bakery, French"
+      },
+      {
+          "id": 18,
+          "name": "Barrett Junction Cafe",
+          "rating": "3.3",
+          "total_votes": "9",
+          "reviews": 56,
+          "cost_for_two": 25,
+          "payment_method": {
+              "card": false,
+              "cash": false,
+              "upi": true
+          },
+          "categories": "American, BBQ, Burger"
+      },
+      {
+          "id": 19,
+          "name": "Sakura Sushi & Grill",
+          "rating": "3.1",
+          "total_votes": "6",
+          "reviews": 12,
+          "cost_for_two": 25,
+          "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": true
+          },
+          "categories": "Asian, Japanese"
+      },
+      {
+          "id": 20,
+          "name": "Blue Point Grill",
+          "rating": "4.0",
+          "total_votes": "542",
+          "reviews": 17,
+          "cost_for_two": 70,
+          "payment_method": {
+              "card": false,
+              "cash": false,
+              "upi": true
+          },
+          "categories": "Seafood"
+      }
+  ]
+}
